@@ -1,0 +1,8 @@
+# Raw evidence may contain Azure subscription IDs, email addresses, IP addresses,
+# object IDs, session IDs, request IDs, or other personal information.
+evidence/raw/
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
+
